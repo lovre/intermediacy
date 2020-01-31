@@ -4,7 +4,9 @@ The repository includes Java program for computing the intermediacy of the nodes
 
 Particularly, the intermediacy was developed to estimate the importance of scientific publications based on a network of citations between these publications. Given two publications dealing with a specific research topic, an older publication and a more recent one, intermediacy can be used to identify publications that appear to play a major role in the intellectual development from the older to the more recent publication. These are publications that, based on citation links, are important in connecting the older and the more recent publication.
 
-The measure of intermediacy is fully described in a preprint at [arxiv.org](https://arxiv.org/abs/0000.00000) (available soon).
+The measure of intermediacy is fully described in a journal paper linked below.
+
+Šubelj, Waltman, Traag & Van Eck, ''[Intermediacy of publications](http://dx.doi.org/10.1098/rsos.190207)'', _Royal Society Open Science_ **7**(1), 190207 (2020).
 
 ### Command line usage
 
